@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello! I am a senior Computer Science major / Data Analytics minor at Chapman University.
+
+# I am currently doing reports for and working as a Data Analyst Intern at Wrecking Yard Baseball.
+
+# In the future, I plan on working as a data scientist or software engineer in a field that pertains to sports and or baseball.
 
 <!--
 **ZacharyInn/zacharyinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

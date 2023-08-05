@@ -157,3 +157,10 @@ button{
     margin-right: 20rem;
     text-align: left;
 }
+
+.resume{
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: .45rem;
+}
